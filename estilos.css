@@ -1,28 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Faustina:400,700');
 
-@media screen and (max-width: 320px) {
-
-h1 {
-    
-    font-size: 80%;
-    text-align: left;
-    
-}
-
-img {
-    width: 80%;
-    height: 80%;
-}
-    
-p {
-    margin-top: 0%;
-    margin-bottom: 20%;
-    font-size: 120%;   
-}
-    
-    
-}
-
 
 
 @media screen and (max-width: 320px) {
