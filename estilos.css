@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Faustina:400,700');
+
+
+*{ box-sizing:border-box;
+    marging: 0;
+    padding: 0;
+    font-weight: normal;
+    text-decoration:none;    
+}
+
+header { 
+    text-align:center;
+    font-family: 'Faustina', serif; 
+    font-weight: 400;
+    font-size:300%;
+            
+}
+
+.tiles {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: wrap;
+    
+}
+
+.producto {
+    font-family: 'Faustina', serif;    
+    margin: 0 auto;
+}
